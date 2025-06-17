@@ -1,0 +1,10 @@
+# Ignorar arquivos de compactação
+*.rar
+
+# Ignorar arquivos venv
+*.cfg
+
+# Ignorar pastas de arquivos temporários e log
+Include/
+Lib/
+Scripts/
